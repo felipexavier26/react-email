@@ -1,4 +1,4 @@
-<h1>PProjeto de Envio de E-mails - React + Vite</h1>
+<h1>Projeto de Envio de E-mails - React + Vite</h1>
 
 Este projeto é uma aplicação desenvolvida com  <strong>React e Vite </strong> que permite o envio de e-mails através de um formulário simples. A aplicação é ideal para integrar um sistema de contato em um site ou um portal.
 
